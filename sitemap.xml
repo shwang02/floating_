@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://shwang02.github.io/floating_/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://shwang02.github.io/floating_/</loc>
+</url>
+<url>
+<loc>https://shwang02.github.io/floating_/about.html</loc>
+<lastmod>2024-02-05T01:30:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://shwang02.github.io/floating_/welcome-d.html</loc>
+<lastmod>2024-02-05T01:23:00-08:00</lastmod>
+<image:image>
+<image:loc>https://shwang02.github.io/floating_/media/posts/1/floating_image.png</image:loc>
+<image:title><![CDATA[Bunny floating through as time is ticking closer and closer]]></image:title>
+</image:image>
+</url>
+</urlset>
