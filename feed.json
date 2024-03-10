@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://shwang02.github.io/floating_/college-statistics-2022-2024.html",
-            "url": "https://shwang02.github.io/floating_/college-statistics-2022-2024.html",
-            "title": "COVID and College Mental Health",
-            "summary": " (2021-2023) COllege mental health statistics with graph pictures maybe if i can, if not then just links to the data. 🤷‍♂️",
-            "content_html": "<p> (2021-2023) COllege mental health statistics with graph pictures maybe if i can, if not then just links to the data. 🤷‍♂️</p>",
-            "author": {
-                "name": "Sharon Hwang"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-03-08T17:33:29-08:00",
-            "date_modified": "2024-03-09T20:50:48-08:00"
-        },
-        {
             "id": "https://shwang02.github.io/floating_/burnout.html",
             "url": "https://shwang02.github.io/floating_/burnout.html",
             "title": "Burnout",
@@ -43,13 +29,14 @@
             "title": "Depression",
             "summary": "this is about depression and how it relates to college students",
             "content_html": "<p>this is about depression and how it relates to college students</p>",
+            "image": "https://shwang02.github.io/floating_/media/posts/4/floating-banner.png",
             "author": {
                 "name": "Sharon Hwang"
             },
             "tags": [
             ],
             "date_published": "2024-03-08T16:23:16-08:00",
-            "date_modified": "2024-03-08T16:23:16-08:00"
+            "date_modified": "2024-03-09T21:14:28-08:00"
         },
         {
             "id": "https://shwang02.github.io/floating_/anxiety.html",
@@ -69,8 +56,8 @@
             "id": "https://shwang02.github.io/floating_/welcome-d.html",
             "url": "https://shwang02.github.io/floating_/welcome-d.html",
             "title": "Welcome to Floating",
-            "summary": "Have you ever felt like you were floating in time and space, outside of the confines of reality? As if time was constantly chasing&hellip;",
-            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://shwang02.github.io/floating_/media/posts/1/floating_image.png\" alt=\"Bunny floating through as time is ticking closer and closer\" width=\"787\" height=\"619\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-xs.png 300w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-sm.png 480w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-md.png 768w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-lg.png 1024w\"></figure>\n<p>Have you ever felt like you were floating in time and space, outside of the confines of reality? As if time was constantly chasing you, but you were floating slowly while everyone would pass by you? The only thing you hear is the sound of the clock, but you don't even know what day it is, what time it is, what you're even supposed to be doing. You're just there... existing. Wondering. But something just keeps on bothering you. Anxiety keeps hitting you.</p>",
+            "summary": "Have you ever felt like you were floating in time and space, outside of the confines of reality? As if&hellip;",
+            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://shwang02.github.io/floating_/media/posts/1/floating_image.png\" alt=\"Bunny floating through as time is ticking closer and closer\" width=\"787\" height=\"619\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-xs.png 300w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-sm.png 480w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-md.png 768w\"></figure>\n<p>Have you ever felt like you were floating in time and space, outside of the confines of reality? As if time was constantly chasing you, but you were floating slowly while everyone would pass by you? The only thing you hear is the sound of the clock, but you don't even know what day it is, what time it is, what you're even supposed to be doing. You're just there... existing. Wondering. But something just keeps on bothering you. Anxiety keeps hitting you.</p>",
             "author": {
                 "name": "Sharon Hwang"
             },
