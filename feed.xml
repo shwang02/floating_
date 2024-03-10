@@ -3,7 +3,7 @@
     <title>Floating</title>
     <link href="https://shwang02.github.io/floating_/feed.xml" rel="self" />
     <link href="https://shwang02.github.io/floating_" />
-    <updated>2024-03-09T21:14:28-08:00</updated>
+    <updated>2024-03-09T21:45:53-08:00</updated>
     <author>
         <name>Sharon Hwang</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://shwang02.github.io/floating_/burnout.html"/>
         <id>https://shwang02.github.io/floating_/burnout.html</id>
+        <media:content url="https://shwang02.github.io/floating_/media/posts/5/floating_dark.png" medium="image" />
 
-        <updated>2024-03-08T16:24:49-08:00</updated>
+        <updated>2024-03-09T21:45:33-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://shwang02.github.io/floating_/media/posts/5/floating_dark.png" alt="" />
                     this is about burnout and how it relates to 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://shwang02.github.io/floating_/media/posts/5/floating_dark.png" class="type:primaryImage" alt="" /></p>
                 <p>this is about burnout and how it relates to </p>
             ]]>
         </content>
@@ -59,15 +62,18 @@
         </author>
         <link href="https://shwang02.github.io/floating_/anxiety.html"/>
         <id>https://shwang02.github.io/floating_/anxiety.html</id>
+        <media:content url="https://shwang02.github.io/floating_/media/posts/3/ionsheriff4.png" medium="image" />
 
-        <updated>2024-03-08T16:23:01-08:00</updated>
+        <updated>2024-03-09T21:45:53-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://shwang02.github.io/floating_/media/posts/3/ionsheriff4.png" alt="" />
                     this is about anxiety and what is about it and common symptoms and how it relates to college students
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://shwang02.github.io/floating_/media/posts/3/ionsheriff4.png" class="type:primaryImage" alt="" /></p>
                 <p>this is about anxiety and what is about it and common symptoms and how it relates to college students</p>
             ]]>
         </content>
