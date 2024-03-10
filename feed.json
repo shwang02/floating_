@@ -5,23 +5,80 @@
     "home_page_url": "https://shwang02.github.io/floating_",
     "feed_url": "https://shwang02.github.io/floating_/feed.json",
     "user_comment": "",
+    "icon": "https://shwang02.github.io/floating_/media/website/floating.png",
     "author": {
         "name": "Sharon Hwang"
     },
     "items": [
         {
+            "id": "https://shwang02.github.io/floating_/college-statistics-2022-2024.html",
+            "url": "https://shwang02.github.io/floating_/college-statistics-2022-2024.html",
+            "title": "The Effects of COVID on College Mental Health (2021-2023)",
+            "summary": "this will have college statistics",
+            "content_html": "<p>this will have college statistics</p>",
+            "author": {
+                "name": "Sharon Hwang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-08T17:33:29-08:00",
+            "date_modified": "2024-03-09T20:13:07-08:00"
+        },
+        {
+            "id": "https://shwang02.github.io/floating_/burnout.html",
+            "url": "https://shwang02.github.io/floating_/burnout.html",
+            "title": "Burnout",
+            "summary": "this is about burnout and how it relates to ",
+            "content_html": "<p>this is about burnout and how it relates to </p>",
+            "author": {
+                "name": "Sharon Hwang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-08T16:24:49-08:00",
+            "date_modified": "2024-03-08T16:24:49-08:00"
+        },
+        {
+            "id": "https://shwang02.github.io/floating_/depression.html",
+            "url": "https://shwang02.github.io/floating_/depression.html",
+            "title": "Depression",
+            "summary": "this is about depression and how it relates to college students",
+            "content_html": "<p>this is about depression and how it relates to college students</p>",
+            "author": {
+                "name": "Sharon Hwang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-08T16:23:16-08:00",
+            "date_modified": "2024-03-08T16:23:16-08:00"
+        },
+        {
+            "id": "https://shwang02.github.io/floating_/anxiety.html",
+            "url": "https://shwang02.github.io/floating_/anxiety.html",
+            "title": "Anxiety",
+            "summary": "this is about anxiety and what is about it and common symptoms and how it relates to college students",
+            "content_html": "<p>this is about anxiety and what is about it and common symptoms and how it relates to college students</p>",
+            "author": {
+                "name": "Sharon Hwang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-08T16:23:01-08:00",
+            "date_modified": "2024-03-08T16:23:01-08:00"
+        },
+        {
             "id": "https://shwang02.github.io/floating_/welcome-d.html",
             "url": "https://shwang02.github.io/floating_/welcome-d.html",
             "title": "Welcome to Floating",
-            "summary": "Have you ever felt like you were floating in time and space, outside of the confines of reality? As if time was constantly chasing&hellip;",
-            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://shwang02.github.io/floating_/media/posts/1/floating_image.png\" alt=\"Bunny floating through as time is ticking closer and closer\" width=\"787\" height=\"619\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-xs.png 300w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-sm.png 480w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-md.png 768w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-lg.png 1024w\"></figure>\n<p>Have you ever felt like you were floating in time and space, outside of the confines of reality? As if time was constantly chasing you, but you were floating slowly while everyone would pass by you? The only thing you hear is the sound of the clock, but you don't even know what day it is, what time it is, what you're even supposed to be doing. You're just there... existing. Wondering. But something just keeps on bothering you. Anxiety keeps hitting you.</p>",
+            "summary": "Have you ever felt like you were floating in time and space, outside of the confines of reality? As if time was constantly&hellip;",
+            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://shwang02.github.io/floating_/media/posts/1/floating_image.png\" alt=\"Bunny floating through as time is ticking closer and closer\" width=\"787\" height=\"619\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-xs.png 300w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-sm.png 480w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-md.png 768w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-lg.png 1024w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-xl.png 1360w ,https://shwang02.github.io/floating_/media/posts/1/responsive/floating_image-2xl.png 1600w\"></figure>\n<p>Have you ever felt like you were floating in time and space, outside of the confines of reality? As if time was constantly chasing you, but you were floating slowly while everyone would pass by you? The only thing you hear is the sound of the clock, but you don't even know what day it is, what time it is, what you're even supposed to be doing. You're just there... existing. Wondering. But something just keeps on bothering you. Anxiety keeps hitting you.</p>",
             "author": {
                 "name": "Sharon Hwang"
             },
             "tags": [
             ],
             "date_published": "2024-01-31T14:41:48-08:00",
-            "date_modified": "2024-02-05T01:23:00-08:00"
+            "date_modified": "2024-03-09T20:28:01-08:00"
         }
     ]
 }
