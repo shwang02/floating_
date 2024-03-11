@@ -5,7 +5,7 @@
     "home_page_url": "https://shwang02.github.io/floating_",
     "feed_url": "https://shwang02.github.io/floating_/feed.json",
     "user_comment": "",
-    "icon": "https://shwang02.github.io/floating_/media/website/floating_dark.png",
+    "icon": "https://shwang02.github.io/floating_/media/website/floating-2.png",
     "author": {
         "name": "Sharon Hwang"
     },
@@ -14,7 +14,7 @@
             "id": "https://shwang02.github.io/floating_/resources.html",
             "url": "https://shwang02.github.io/floating_/resources.html",
             "title": "Resources",
-            "summary": "Coping Mechanisms (YT VIDEOS or links) resources available, make sure to check in with colleges for resources and ask and&hellip;",
+            "summary": "Coping Mechanisms (YT VIDEOS or links) resources available, make sure to check in with colleges for resources and ask and suicide hotline and&hellip;",
             "content_html": "<p>Coping Mechanisms <br>(YT VIDEOS or links)</p>\n<p>resources available, make sure to check in with colleges for resources and ask and suicide hotline and all that yadayadayada</p>",
             "author": {
                 "name": "Sharon Hwang"
@@ -28,7 +28,7 @@
             "id": "https://shwang02.github.io/floating_/burnout.html",
             "url": "https://shwang02.github.io/floating_/burnout.html",
             "title": "Burnout",
-            "summary": "this is about burnout and how it relates to *warning: this is not a method of self diagnoses but a&hellip;",
+            "summary": "this is about burnout and how it relates to *warning: this is not a method of self diagnoses but a means to inform.",
             "content_html": "<p>this is about burnout and how it relates to </p>\n<p> </p>\n<p>*warning: this is not a method of self diagnoses but a means to inform. to properly diagnose, ask a professional for help.</p>",
             "image": "https://shwang02.github.io/floating_/media/posts/5/floating_dark.png",
             "author": {
@@ -43,7 +43,7 @@
             "id": "https://shwang02.github.io/floating_/depression.html",
             "url": "https://shwang02.github.io/floating_/depression.html",
             "title": "Depression",
-            "summary": "this is about depression and how it relates to college students *warning: this is not a method of self diagnoses&hellip;",
+            "summary": "this is about depression and how it relates to college students *warning: this is not a method of self diagnoses but a means&hellip;",
             "content_html": "<p>this is about depression and how it relates to college students</p>\n<p> </p>\n<p>*warning: this is not a method of self diagnoses but a means to inform. to properly diagnose, ask a professional for help.</p>",
             "image": "https://shwang02.github.io/floating_/media/posts/4/floating-banner.png",
             "author": {
@@ -58,7 +58,7 @@
             "id": "https://shwang02.github.io/floating_/anxiety.html",
             "url": "https://shwang02.github.io/floating_/anxiety.html",
             "title": "Anxiety",
-            "summary": "this is about anxiety and what is about it and common symptoms and how it relates to college students *warning:&hellip;",
+            "summary": "this is about anxiety and what is about it and common symptoms and how it relates to college students *warning: this is not&hellip;",
             "content_html": "<p>this is about anxiety and what is about it and common symptoms and how it relates to college students</p>\n<p>*warning: this is not a method of self diagnoses but a means to inform. to properly diagnose, ask a professional for help.</p>",
             "image": "https://shwang02.github.io/floating_/media/posts/3/ionsheriff4.png",
             "author": {
@@ -68,6 +68,20 @@
             ],
             "date_published": "2024-03-08T16:23:01-08:00",
             "date_modified": "2024-03-09T22:41:09-08:00"
+        },
+        {
+            "id": "https://shwang02.github.io/floating_/welcome-d.html",
+            "url": "https://shwang02.github.io/floating_/welcome-d.html",
+            "title": "Welcome to Floating",
+            "summary": "As you float across time and space, you'll come across different obstacles. Each obstacle will bring different feelings and idk man im out&hellip;",
+            "content_html": "<p>As you float across time and space, you'll come across different obstacles. Each obstacle will bring different feelings and idk man im out of juice. i deleted the other one which i felt wouldve helped out a bit more.</p>\n<p> </p>\n<p class=\"align-center\"><a href=\"https://shwang02.github.io/floating_/burnout.html\" class=\"button\">The Supernova </a>  <a href=\"https://shwang02.github.io/floating_/anxiety.html\" class=\"button\">Shooting Comets</a> <a href=\"https://shwang02.github.io/floating_/depression.html\" class=\"button\">The Black Hole</a></p>",
+            "author": {
+                "name": "Sharon Hwang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-31T14:41:48-08:00",
+            "date_modified": "2024-03-11T01:35:08-07:00"
         }
     ]
 }
