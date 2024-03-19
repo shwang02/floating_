@@ -71,14 +71,14 @@
             "url": "https://shwang02.github.io/floating_/welcome-d.html",
             "title": "Welcome to Floating",
             "summary": "As you float across time and space, you'll come across different obstacles. Each obstacle will bring different feelings. Each a common entity amongst&hellip;",
-            "content_html": "<p class=\"align-center\">As you float across time and space, you'll come across different obstacles. Each obstacle will bring different feelings. Each a common entity amongst all of us. Venture into each and see where you land. </p>\n<p class=\"align-center\"><a href=\"https://shwang02.github.io/floating_/burnout.html\" class=\"button\" style=\"background-color: #6a81b8; color: #f8f8f1;\">Begin Journey </a></p>\n<p class=\"align-center\"><a href=\"https://shwang02.github.io/floating_/about.html\" class=\"button\">About the Project</a></p>",
+            "content_html": "<p class=\"align-center\">As you float across time and space, you'll come across different obstacles. Each obstacle will bring different feelings. Each a common entity amongst all of us. Venture into each and see where you land. </p>\n<p class=\"align-center\"><a href=\"https://shwang02.github.io/floating_/burnout.html\" class=\"button\" style=\"background-color: #6a81b8; color: #f8f8f1;\">Begin the Journey</a></p>",
             "author": {
                 "name": "Sharon Hwang"
             },
             "tags": [
             ],
             "date_published": "2024-01-31T14:41:48-08:00",
-            "date_modified": "2024-03-18T18:22:20-07:00"
+            "date_modified": "2024-03-18T18:29:10-07:00"
         }
     ]
 }
